@@ -16,11 +16,11 @@
 <a href="http://hec.guitarhaven.com/ff/" target="_blank">网址一</a> 　 
 <a href="http://hpz.guitarhaven.com/s/read/a1_nd.html" target="_blank">网址二</a> 　 
 <a href="http://hpz.guitarhaven.com/ff/index.html" target="_blank">网址三</a></p>
-<p>◎ </span>  • 每 日 新 闻：  
+<p>◎  • 每 日 新 闻：  
 <a href="http://hec.guitarhaven.com/day/" target="_blank">网址一</a> 　 
 <a href="http://hpz.guitarhaven.com/day/" target="_blank">网址二</a> 　 
 <a href="http://hpz.guitarhaven.com/day/index.html" target="_blank">网址三</a></p>
-<p>◎ </span>  • 短 波 分 享：  
+<p>◎   • 短 波 分 享：  
 <a href="http://hec.guitarhaven.com/h/" target="_blank">网址一</a> 　 
 <a href="http://hpz.guitarhaven.com/h/" target="_blank">网址二</a> 　 
 <a href="http://hpz.guitarhaven.com/h/index.html" target="_blank">网址三</a></p>
