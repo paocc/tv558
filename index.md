@@ -5,8 +5,7 @@
 <a href="http://hiz.csso.cam/" target="_blank">网址一</a> 　 
 <a href="http://hud.csso.cam/" target="_blank">网址二</a> 　 
 <a href="http://hqp.csso.cam/b.html" target="_blank">网址三</a>
-
-<p>◆ 分 享 网 址  https://n.zhih.ml/   （请 收 藏） </p>
+<p>◆ 分 享 网 址  https://m.zhih.ml/  （请 收 藏） </p>
 
 <p>◎•  小 站：  
 <a href="http://hiz.csso.cam/f.html" target="_blank">网址一</a> 　 
